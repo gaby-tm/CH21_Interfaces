@@ -16,8 +16,5 @@ public class Rectangulo extends Triangulo implements Calculadora {
 	@Override
 	public String toString() {
 		return "Rectangulo [getName()=" + getName() + ", getBase()=" + getBase() + ", getAltura()=" + getAltura() + "]";
-	}//toString
-
-
-	
+	}//toString	
 }//classRectangulo
